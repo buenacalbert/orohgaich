@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://teiteewea.beinteractive.jp/sitemap.xml
